@@ -1,2 +1,7 @@
 
 file2 data
+
+
+file2 -- first commit
+
+file2 -- second commit
