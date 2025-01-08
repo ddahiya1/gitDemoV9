@@ -1,15 +1,5 @@
 
-file1- commit one
-
-file1 - fetch/pull addition
-
-file1 - fetch/pull addition part 2
-
-file1 commit 1
-
-file1 line 10
-file1 line 11
-
+file data
 
  git fetch origin main
 
