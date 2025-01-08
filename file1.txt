@@ -7,5 +7,3 @@ file data
 
 
 file 1 -- more data commit 1
-
-file1 -- secod commit
