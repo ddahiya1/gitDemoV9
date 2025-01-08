@@ -1,9 +1,2 @@
 
-file2 - commit one , second commit
-
-
-file2 - fetch/pull addition
-
-file2 -- fetch/ pull addition part2
-
-git add
+file2 data
