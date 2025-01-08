@@ -1,5 +1,5 @@
 
-file2 - commit one
+file2 - commit one , second commit
 
 
 file2 - fetch/pull addition
